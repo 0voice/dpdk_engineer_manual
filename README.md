@@ -59,7 +59,7 @@ An Ideal Network IO Virtualization Solution in DPDK | Xiuchun Lu, Chenbo Xia
 Handling Elephant Flow on a DPDK-Based Load Balancer | Hongjun Ni, Yipeng Wang, Chenmin Sun 
 OvS Tunneling and Connection Tracking Hardware Offload via Rte_flow | Xiao Wang, Rosen Xu 
 Accelerating vHost Data Plane with DMA in the CPU | Jiayu Hu 
-Warp Speed Cryptographic Applications - A New DPDK Cryptodev Raw Data Path API and Its... | Fan Zhang 
+Warp Speed Cryptographic Applications  | Fan Zhang 
 Introducing Hardware Content Inspection Accelerator Into the Network Securit...| Kun Qiu, Harry Chang 
 Enhance SEBA-Based FTTH vCPE System with SPP vSwitch | Tri Trinh, Kentaro Ogawa
 Memory Error Detect Enhancement for DPDK Fuzzing | Xueqin Lin, Yinan Wang 
