@@ -98,7 +98,31 @@
  
 ## 📈 实战案例
 
-## 🎞 大厂内部ppt
+## 🎞 大会ppt
+
+#### APAC 2021-Accelerating vHost with DMA-JiayuHu.pdf
+#### APAC 2021-DPDK APAC Summit - Opening Remarks.pdf
+#### APAC 2021-DPDK_Summit21_wdate_PPT_OvS-Tunnel_CT.pdf
+#### APAC 2021-Handling Elephant Flow on a DPDK-Based Load Balancer.pdf
+#### APAC 2021-Hardware Accelerator into the Network Security Applications.pdf
+#### APAC 2021-Ideal_Virt_Framework.pdf
+#### APAC 2021-Memory error detect enhancement for DPDK fuzzing_APAC_final-1.pdf
+#### APAC 2021-SEBA_SPP_NTT_VNPT_DPDK_SUMMIT_APAC_2021_Official_v0.1.pdf
+#### APAC 2021-Using DPDK to build PCIe endpoint framework (1).pdf
+#### APAC 2021-dynamic mempool.pdf
+#### APAC 2021-warp speed crypto - A new DPDK Cryptodev Raw Data Path API and its use in Fd.io VPP.pdf
+#### NA 2021-Cristian_Dumitrescu_Han_Wang_Running_P4_Programs_as_DPDK_Apps.pdf
+#### NA 2021-DPDK NA - Closing Remarks.pptx.pdf
+#### NA 2021-DPDK Summit North America 2021.pdf
+#### NA 2021-DPDK on RISC-V - Stanislaw Kardach, Semihalf.pdf
+#### NA 2021-High Density Scalable Cloud Gateway for Cloud Networking_DPDK Summit NA 2021_Ni Hongjun & Zhang Pan.pdf
+#### NA 2021-Memory Model Simulation Tool - Herd7.pdf
+#### NA 2021-RTE_Flow improvements Ori Kam.pdf
+#### NA 2021-Transitioning Flow Based ethdev Ops to rte_flow - Ajit Khaparde.pdf
+#### NA 2021-Using Virtual Functions with DPDK in OpenShift 4.pdf
+#### NA 2021-dpdk-na-summit-2021_dpdk-on-riscv_kardach.pdf
+#### NA 2021-zero-copy-ring-APIs-DPDK.pdf
+
 
 ## 👷 知名工程师
 
