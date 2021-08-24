@@ -74,6 +74,11 @@
 
 **项目** | **简介** 
 :------|:-------
+[dpdk-burst-replay](http://git.dpdk.org/apps/dpdk-burst-replay/)| 注入pcap文件
+[DTS](https://git.dpdk.org/tools/dts/)|DPDK测试套件
+[intel-go/nff-go](https://github.com/intel-go/nff-go)|NFF-Go - GO的网络功能框架(原YANFF) 
+[Pktgen](http://dpdk.org/browse/apps/pktgen-dpdk/)|由 DPDK 提供支持的流量生成器 
+[SPP](http://dpdk.org/browse/apps/spp/)|DPDK 资源管理框架
 [ansyun/dpdk-ans](https://github.com/ansyun/dpdk-ans)|ANS(加速网络堆栈)是DPDK本地TCP/IP堆栈，也参考FreeBSD实现。ANS提供了一个与Intel DPDK一起使用的用户空间TCP/IP堆栈。
 [dpdkcap/dpdkcap](https://github.com/dpdkcap/dpdkcap)|基于dpdk的抓包工具
 [pktgen/Pktgen-DPDK](https://github.com/pktgen/Pktgen-DPDK)|基于DPDK的包生成器
@@ -89,7 +94,7 @@
 [F-Stack/f-stack](https://github.com/F-Stack/f-stack)|  F-Stack是一个基于DPDK、FreeBSD TCP/IP栈和协程API的高性能用户空间网络开发工具包。
 [bytedance/ovs-dpdk](https://github.com/bytedance/ovs-dpdk)| 这是Open vSwitch的一个分支，我们专注于基于DPDK的Open vSwitch
 [napatech/daq_dpdk_multiqueue](https://github.com/napatech/daq_dpdk_multiqueue)| Snort DPDK DAQ模块，支持多队列-主要用于Napatech网卡
-[intel-go/nff-go](https://github.com/intel-go/nff-go)|NFF-Go - GO的网络功能框架(原YANFF) 
+
  
 ## 📈 实战案例
 
