@@ -10,7 +10,7 @@
 
 <dr>
 
-## 📣 【梳理思维，导图跟上】：[DPDK架构图.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/DPDK%E6%9E%B6%E6%9E%84%E5%9B%BE.pdf)
+## 📣 【梳理思维，导图跟上】[DPDK架构图.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/DPDK%E6%9E%B6%E6%9E%84%E5%9B%BE.pdf)
 
 <div  align=center>
  
