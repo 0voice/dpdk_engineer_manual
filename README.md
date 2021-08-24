@@ -35,6 +35,38 @@
 
 
 ## 📀 最新视频
+ 
+<div  align=center>
+ 
+**2021年DPDK北美峰会** | **演讲者** 
+:------|:-------
+Welcome_ DPDK Summit NA 2021Virtual Experience | Arpit Joshipura
+DPDK on RISC-V  | Stanislaw Kardach, Semihalf
+Getting Past Incubation_ DPDK for Windows Platform Goes Mainstream|
+Using Virtual Functions with DPDK in OpenShift 4  |Ip Sam & Wuxin Zeng, Red Hat
+High Density Scalable Cloud Gateway for Cloud Networking | Hongjun Ni & Pan Zhang, Intel
+Running P4 programs as DPDK applications | Cristian Dumitrescu & Han Wang - Intel
+Advanced API For Rules Management - RTE Flow Next Evolution  |Ori Kam, NVIDIA
+Tools for Memory Model Simulation |Herd7 - Honnappa Nagarahalli, ARM
+Transitioning Flow Based ethdev Ops to rte_flow | Ajit Khaparde, Broadcom 
+Closing Remarks - DPDK Summit NA 2021 -| Arpit Joshipura
+ 
+**2021年亚太DPDK峰会** | **演讲者**
+:------|:-------
+Welcome- DPDK Summit APAC 2021 | Jim St. Leger 
+Dynamic Mempool_ One of the Final Steps to Make DPDK Cloud-Native | Jielong Zhou
+An Ideal Network IO Virtualization Solution in DPDK | Xiuchun Lu, Chenbo Xia 
+Handling Elephant Flow on a DPDK-Based Load Balancer | Hongjun Ni, Yipeng Wang, Chenmin Sun 
+OvS Tunneling and Connection Tracking Hardware Offload via Rte_flow | Xiao Wang, Rosen Xu 
+Accelerating vHost Data Plane with DMA in the CPU | Jiayu Hu 
+Warp Speed Cryptographic Applications - A New DPDK Cryptodev Raw Data Path API and Its... | Fan Zhang 
+Introducing Hardware Content Inspection Accelerator Into the Network Securit...| Kun Qiu, Harry Chang 
+Enhance SEBA-Based FTTH vCPE System with SPP vSwitch | Tri Trinh, Kentaro Ogawa
+Memory Error Detect Enhancement for DPDK Fuzzing | Xueqin Lin, Yinan Wang 
+Using DPDK to Build PCIe Endpoint Framework | Jun Yang, Hongjun Chen
+ 
+ 
+ </div>
 
 ## 🏗 开源项目
 
