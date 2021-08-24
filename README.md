@@ -11,10 +11,11 @@
 <dr>
 
 ## 📕 书籍电子版资料
+ 
+#### [《DPDK应用基础》](https://www.aliyundrive.com/s/U2hJMJojHXm)
+#### [《深入浅出DPDK》](https://www.aliyundrive.com/s/gbwVRvRptaX)
+#### [《Linux开源网络全栈详解：从DPDK到OpenFlow》](https://www.aliyundrive.com/s/3BNWpLX4hZk)
 
-#### 《深入浅出DPDK》
-#### 《Linux开源网络全栈详解：从DPDK到OpenFlow》
-#### 《DPDK应用基础》
 
 ## 📜 官方文档
 
