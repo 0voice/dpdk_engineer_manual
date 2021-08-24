@@ -38,7 +38,7 @@
 <br>
 
 **2021年DPDK北美峰会** | **演讲者** 
-:------|:-------
+------|-------
 [Welcome_ DPDK Summit NA 2021Virtual Experience](https://www.aliyundrive.com/s/dTrUWM4REUZ) | Arpit Joshipura
 [DPDK on RISC-V](https://www.aliyundrive.com/s/bmSyVnqbcrE)  | Stanislaw Kardach, Semihalf
 [Getting Past Incubation_ DPDK for Windows Platform Goes Mainstream](https://www.aliyundrive.com/s/izr9xWQCohN)|
@@ -53,7 +53,7 @@
 <br>
  
 **2021年亚太DPDK峰会** | **演讲者**
-:------|:-------
+------|-------
 [Welcome- DPDK Summit APAC 2021](https://www.aliyundrive.com/s/nax5aepFvt8) | Jim St. Leger 
 [Dynamic Mempool_ One of the Final Steps to Make DPDK Cloud-Native](https://www.aliyundrive.com/s/LosLFP9Kmy8) | Jielong Zhou
 [An Ideal Network IO Virtualization Solution in DPDK](https://www.aliyundrive.com/s/HVu1L15fARi) | Xiuchun Lu, Chenbo Xia 
@@ -70,7 +70,27 @@
 
 
 ## 🏗 开源项目
+<br>
 
+**项目** | **简介** 
+:------|:-------
+[ansyun/dpdk-ans](https://github.com/ansyun/dpdk-ans)|ANS(加速网络堆栈)是DPDK本地TCP/IP堆栈，也参考FreeBSD实现。ANS提供了一个与Intel DPDK一起使用的用户空间TCP/IP堆栈。
+[dpdkcap/dpdkcap](https://github.com/dpdkcap/dpdkcap)|基于dpdk的抓包工具
+[pktgen/Pktgen-DPDK](https://github.com/pktgen/Pktgen-DPDK)|基于DPDK的包生成器
+[iqiyi/dpvs](https://github.com/iqiyi/dpvs)|DPVS是一种基于DPDK的高性能四层负载均衡器
+[iqiyi/qnsm](https://github.com/iqiyi/qnsm)|QNSM是基于DPDK的网络安全监控框架
+[rumpkernel/drv-netif-dpdk](https://github.com/rumpkernel/drv-netif-dpdk)|用户空间TCP/IP栈的DPDK接口驱动程序
+[emmericp/MoonGen](https://github.com/emmericp/MoonGen)| MoonGen是一个完全可编写脚本的高速包生成器，构建在DPDK和LuaJIT之上。当为每个包执行用户提供的Lua脚本时，它可以在单个CPU核心上使用64字节的包来饱和10gb /s的连接。多核支持允许更高的速率。它还具有精确和准确的时间戳和速率控制。
+[libmoon/libmoon](https://github.com/libmoon/libmoon)| libmoon是一个使用DPDK和LuaJIT进行快速灵活的包处理的库。
+[usnistgov/ndn-dpdk](https://github.com/usnistgov/ndn-dpdk)| NDN-DPDK:高速命名数据网络转发器
+[vipinpv85/DPDK_SURICATA-4_1_1](https://github.com/vipinpv85/DPDK_SURICATA-4_1_1)| 用于软件加速的DPDK基础设施。目前正在进行RX和ACL预过滤
+[wangbojing/NtyTcp](https://github.com/wangbojing/NtyTcp)| 单线程用户态TCP/IP协议栈，epoll实现，包含服务器案例，并发测试案例
+[tiglabs/jupiter](https://github.com/tiglabs/jupiter)| Jupiter是一种基于DPDK的高性能四层网络负载均衡服务。
+[F-Stack/f-stack](https://github.com/F-Stack/f-stack)|  F-Stack是一个基于DPDK、FreeBSD TCP/IP栈和协程API的高性能用户空间网络开发工具包。
+[bytedance/ovs-dpdk](https://github.com/bytedance/ovs-dpdk)| 这是Open vSwitch的一个分支，我们专注于基于DPDK的Open vSwitch
+[napatech/daq_dpdk_multiqueue](https://github.com/napatech/daq_dpdk_multiqueue)| Snort DPDK DAQ模块，支持多队列-主要用于Napatech网卡
+[intel-go/nff-go](https://github.com/intel-go/nff-go)|NFF-Go - GO的网络功能框架(原YANFF) 
+ 
 ## 📈 实战案例
 
 ## 🎞 大厂内部ppt
