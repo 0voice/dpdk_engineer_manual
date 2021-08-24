@@ -10,6 +10,14 @@
 
 <dr>
 
+## 📣 【梳理思维，导图跟上】：[DPDK架构图.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/DPDK%E6%9E%B6%E6%9E%84%E5%9B%BE.pdf)
+
+<div  align=center>
+ 
+![image](https://user-images.githubusercontent.com/87457873/130615949-8340cc38-2dd2-49b1-845f-bbff6a244ee4.png)
+
+</div>
+
 ## 📕 书籍电子版资料
  
 #### [《DPDK应用基础》](https://www.aliyundrive.com/s/U2hJMJojHXm)
