@@ -36,8 +36,7 @@
 
 ## 📀 最新视频
  
-<div  align=center>
- 
+
 **2021年DPDK北美峰会** | **演讲者** 
 :------|:-------
 Welcome_ DPDK Summit NA 2021Virtual Experience | Arpit Joshipura
@@ -66,7 +65,7 @@ Memory Error Detect Enhancement for DPDK Fuzzing | Xueqin Lin, Yinan Wang
 Using DPDK to Build PCIe Endpoint Framework | Jun Yang, Hongjun Chen
  
  
- </div>
+
 
 ## 🏗 开源项目
 
