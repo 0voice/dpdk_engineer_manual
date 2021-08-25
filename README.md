@@ -1,4 +1,4 @@
-# ✨✨✨【DPDK工程师手册】 —— 官方文档，最新视频，开源项目，实战案例，论文，大厂内部ppt，知名工程师一览表
+# ✨✨✨【DPDK工程师手册】 —— 官方文档，最新视频，开源项目，论文，大厂内部ppt，知名工程师一览表
 
 <div  align=center>
  
@@ -103,8 +103,6 @@
 [bytedance/ovs-dpdk](https://github.com/bytedance/ovs-dpdk)| 这是Open vSwitch的一个分支，我们专注于基于DPDK的Open vSwitch
 [napatech/daq_dpdk_multiqueue](https://github.com/napatech/daq_dpdk_multiqueue)| Snort DPDK DAQ模块，支持多队列-主要用于Napatech网卡
 
- 
-## 📈 实战案例
 
 ## 🎞 大会ppt
 
