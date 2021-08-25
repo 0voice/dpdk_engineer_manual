@@ -196,3 +196,9 @@ No.|Title|Translation（参考）|Company
 23 |[《FlowMon-DPDK: Parsimonious per-flow software monitoring at line rate》](https://github.com/0voice/dpdk_engineer_manual/blob/main/paper/%E3%80%8AFlowMon-DPDK%20Parsimonious%20per-flow%20software%20monitoring%20at%20line%20rate%E3%80%8B.pdf) |FlowMon-DPDK:基于线路速率的简单的每流量软件监控 |诺基亚贝尔实验室   
 24 |[《Intel® DPDK Boosts Server Appliance Performance》](https://github.com/0voice/dpdk_engineer_manual/blob/main/paper/%E3%80%8AIntel%C2%AE%20DPDK%20Boosts%20Server%20Appliance%20Performance%E3%80%8B.pdf) |英特尔®DPDK提升服务器设备性能 |Intel 
 25 |[《Virtual Switch Acceleration with OVS-TC and Agilio 40GbE SmartNICs》](https://github.com/0voice/dpdk_engineer_manual/blob/main/paper/%E3%80%8AVirtual%20Switch%20Acceleration%20with%20OVS-TC%20and%20Agilio%2040GbE%20SmartNICs%E3%80%8B.pdf) |基于OVS-TC和Agilio 40GbE SmartNICs的虚拟交换机加速 |Netronome  
+ 
+ ## 联系我们
+ 
+#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
+
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
