@@ -24,7 +24,7 @@
 #### [《深入浅出DPDK》](https://www.aliyundrive.com/s/gbwVRvRptaX)
 #### [《Linux开源网络全栈详解：从DPDK到OpenFlow》](https://www.aliyundrive.com/s/3BNWpLX4hZk)
 #### [《DPDK Programmer’s Guide》](https://www.aliyundrive.com/s/EfFUcx6G8Zu)
-#### [Data Plane Development Kit (DPDK) ]()
+#### [《Data Plane Development Kit (DPDK)》 ]()
 
 
 ## 📜 官方文档
