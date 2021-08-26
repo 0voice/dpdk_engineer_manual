@@ -76,7 +76,68 @@
 [Memory Error Detect Enhancement for DPDK Fuzzing](https://www.aliyundrive.com/s/4sWgpknXdix) | Xueqin Lin, Yinan Wang 
 [Using DPDK to Build PCIe Endpoint Framework](https://www.aliyundrive.com/s/DU2MY75TWnw) | Jun Yang, Hongjun Chen
  
+<br>
  
+**2017年DPDK中国上海技术峰会** | **演讲者**
+------|------- 
+[A Better Virtio towords NFV Cloud]()|
+[Accelerate VM I_O via SPDK and Crypto for Generaic vHost]()| 
+[Accelerate VM I_O via SPDK and Crypto for Generaic vHost_2]()| 
+[OVS-DPDK Practices in Meituan Cloud]()| 
+[A High speed DPDK PMD approach in LXC]()| 
+[Cloud Data Center, Network Security practices]()|
+[DPDK in container - Status Quo and Future Directions]()| 
+[F-Stack, a full user space network service on DPDK]()| 
+[Support Millions users in vBRAS]()| 
+[Telco data plane status, challenges and solutions]()|
+[Towards Low Latency Interrupt Mode PMD]()|
+[Accelerate VPP workload with DPDK Cryptodev Framework]()| 
+[Data Center Security Use Case with DPDK]()| 
+[Intel® 25GbE Ethernet Adapter Advanced Features for NFV, Adaptiv]()| 
+[Intel® 25GbE Ethernet Adapter Advanced Features for NFV, Adaptiv_2]()| 
+[Network performance tuning, lesson learned]()|
+[OPDL- On The Path To Packet Processing Nirvana]()| 
+ 
+## 🎞 大会ppt
+
+#### [APAC 2021-Accelerating vHost with DMA-JiayuHu.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Accelerating%20vHost%20with%20DMA-JiayuHu.pdf)
+#### [APAC 2021-DPDK APAC Summit - Opening Remarks.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-DPDK%20APAC%20Summit%20-%20Opening%20Remarks.pdf)
+#### [APAC 2021-DPDK_Summit21_wdate_PPT_OvS-Tunnel_CT.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-DPDK_Summit21_wdate_PPT_OvS-Tunnel_CT.pdf)
+#### [APAC 2021-Handling Elephant Flow on a DPDK-Based Load Balancer.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Handling%20Elephant%20Flow%20on%20a%20DPDK-Based%20Load%20Balancer.pdf)
+#### [APAC 2021-Hardware Accelerator into the Network Security Applications.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Hardware%20Accelerator%20into%20the%20Network%20Security%20Applications.pdf)
+#### [APAC 2021-Ideal_Virt_Framework.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Ideal_Virt_Framework.pdf)
+#### [APAC 2021-Memory error detect enhancement for DPDK fuzzing_APAC_final-1.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Memory%20error%20detect%20enhancement%20for%20DPDK%20fuzzing_APAC_final-1.pdf)
+#### [APAC 2021-SEBA_SPP_NTT_VNPT_DPDK_SUMMIT_APAC_2021_Official_v0.1.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-SEBA_SPP_NTT_VNPT_DPDK_SUMMIT_APAC_2021_Official_v0.1.pdf)
+#### [APAC 2021-Using DPDK to build PCIe endpoint framework.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Using%20DPDK%20to%20build%20PCIe%20endpoint%20framework%20(1).pdf)
+#### [APAC 2021-dynamic mempool.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-dynamic%20mempool.pdf)
+#### [APAC 2021-warp speed crypto - A new DPDK Cryptodev Raw Data Path API and its use in Fd.io VPP.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-warp%20speed%20crypto%20-%20A%20new%20DPDK%20Cryptodev%20Raw%20Data%20Path%20API%20and%20its%20use%20in%20Fd.io%20VPP.pdf)
+#### [NA 2021-Cristian_Dumitrescu_Han_Wang_Running_P4_Programs_as_DPDK_Apps.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-Cristian_Dumitrescu_Han_Wang_Running_P4_Programs_as_DPDK_Apps.pdf)
+#### [NA 2021-DPDK NA - Closing Remarks.pptx.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-DPDK%20NA%20-%20Closing%20Remarks.pptx.pdf)
+#### [NA 2021-DPDK Summit North America 2021.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-DPDK%20Summit%20North%20America%202021.pdf)
+#### [NA 2021-DPDK on RISC-V - Stanislaw Kardach, Semihalf.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-DPDK%20on%20RISC-V%20-%20Stanislaw%20Kardach%2C%20Semihalf.pdf)
+#### [NA 2021-High Density Scalable Cloud Gateway for Cloud Networking_DPDK Summit NA 2021_Ni Hongjun & Zhang Pan.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-High%20Density%20Scalable%20Cloud%20Gateway%20for%20Cloud%20Networking_DPDK%20Summit%20NA%202021_Ni%20Hongjun%20%26%20Zhang%20Pan.pdf)
+#### [NA 2021-Memory Model Simulation Tool - Herd7.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-Memory%20Model%20Simulation%20Tool%20-%20Herd7.pdf)
+#### [NA 2021-RTE_Flow improvements Ori Kam.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-RTE_Flow%20improvements%20Ori%20Kam.pdf)
+#### [NA 2021-Transitioning Flow Based ethdev Ops to rte_flow - Ajit Khaparde.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-Transitioning%20Flow%20Based%20ethdev%20Ops%20to%20rte_flow%20-%20Ajit%20Khaparde.pdf)
+#### [NA 2021-Using Virtual Functions with DPDK in OpenShift 4.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-Using%20Virtual%20Functions%20with%20DPDK%20in%20OpenShift%204.pdf)
+#### [NA 2021-dpdk-na-summit-2021_dpdk-on-riscv_kardach.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-dpdk-na-summit-2021_dpdk-on-riscv_kardach.pdf)
+#### [NA 2021-zero-copy-ring-APIs-DPDK.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-zero-copy-ring-APIs-DPDK.pdf)
+#### [DPDK-China2017-Huang-OVS-DPDK-Practices-in-Meituan-Cloud.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Huang-OVS-DPDK-Practices-in-Meituan-Cloud.pdf)
+#### [DPDK-China2017-JiangWang-Low-Latency-PMD.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-JiangWang-Low-Latency-PMD.pdf)
+#### [DPDK-China2017-LiangWang-A-Better-Virtio-towards-NFV-Cloud.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-LiangWang-A-Better-Virtio-towards-NFV-Cloud.pdf)
+#### [DPDK-China2017-Lin-Telco-Data-Plane-Status.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Lin-Telco-Data-Plane-Status.pdf)
+#### [DPDK-China2017-LiuZeng-Accelerate-VM-IO-via-SPDK.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-LiuZeng-Accelerate-VM-IO-via-SPDK.pdf)
+#### [DPDK-China2017-Lou-Network-Performance-Tuning.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Lou-Network-Performance-Tuning.pdf)
+#### [DPDK-China2017-Ma-OPDL.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Ma-OPDL.pdf)
+#### [DPDK-China2017-Sun-Support-Millions-vBRAS.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Sun-Support-Millions-vBRAS.pdf)
+#### [DPDK-China2017-Tan-DPDK-in-Container.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Tan-DPDK-in-Container.pdf)
+#### [DPDK-China2017-Wang-Cloud-Data-Center-Security Technologies.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Wang-Cloud-Data-Center-Security%20Technologies.pdf)
+#### [DPDK-China2017-Wang-Cloud-Data-Center.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Wang-Cloud-Data-Center.pdf)
+#### [DPDK-China2017-Wang-FStack.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Wang-FStack.pdf)
+#### [DPDK-China2017-Zhang-Accelerate-VPP.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Zhang-Accelerate-VPP.pdf)
+#### [DPDK-China2017-Zhang-Data-Center-Security-Use-Case-with-DPDK.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Zhang-Data-Center-Security-Use-Case-with-DPDK.pdf)
+#### [DPDK-China2017-ZhangWu-Intel-25GbE-Ethernet.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-ZhangWu-Intel-25GbE-Ethernet.pdf)
+#### [DPDK-China2017-Zheng-High-Speed-DPDK-PMD-LXC.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/DPDK-China2017-Zheng-High-Speed-DPDK-PMD-LXC.pdf)
 
 
 ## 🏗 开源项目
@@ -104,32 +165,6 @@
 [F-Stack/f-stack](https://github.com/F-Stack/f-stack)|  F-Stack是一个基于DPDK、FreeBSD TCP/IP栈和协程API的高性能用户空间网络开发工具包。
 [bytedance/ovs-dpdk](https://github.com/bytedance/ovs-dpdk)| 这是Open vSwitch的一个分支，我们专注于基于DPDK的Open vSwitch
 [napatech/daq_dpdk_multiqueue](https://github.com/napatech/daq_dpdk_multiqueue)| Snort DPDK DAQ模块，支持多队列-主要用于Napatech网卡
-
-
-## 🎞 大会ppt
-
-#### [APAC 2021-Accelerating vHost with DMA-JiayuHu.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Accelerating%20vHost%20with%20DMA-JiayuHu.pdf)
-#### [APAC 2021-DPDK APAC Summit - Opening Remarks.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-DPDK%20APAC%20Summit%20-%20Opening%20Remarks.pdf)
-#### [APAC 2021-DPDK_Summit21_wdate_PPT_OvS-Tunnel_CT.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-DPDK_Summit21_wdate_PPT_OvS-Tunnel_CT.pdf)
-#### [APAC 2021-Handling Elephant Flow on a DPDK-Based Load Balancer.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Handling%20Elephant%20Flow%20on%20a%20DPDK-Based%20Load%20Balancer.pdf)
-#### [APAC 2021-Hardware Accelerator into the Network Security Applications.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Hardware%20Accelerator%20into%20the%20Network%20Security%20Applications.pdf)
-#### [APAC 2021-Ideal_Virt_Framework.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Ideal_Virt_Framework.pdf)
-#### [APAC 2021-Memory error detect enhancement for DPDK fuzzing_APAC_final-1.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Memory%20error%20detect%20enhancement%20for%20DPDK%20fuzzing_APAC_final-1.pdf)
-#### [APAC 2021-SEBA_SPP_NTT_VNPT_DPDK_SUMMIT_APAC_2021_Official_v0.1.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-SEBA_SPP_NTT_VNPT_DPDK_SUMMIT_APAC_2021_Official_v0.1.pdf)
-#### [APAC 2021-Using DPDK to build PCIe endpoint framework.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-Using%20DPDK%20to%20build%20PCIe%20endpoint%20framework%20(1).pdf)
-#### [APAC 2021-dynamic mempool.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-dynamic%20mempool.pdf)
-#### [APAC 2021-warp speed crypto - A new DPDK Cryptodev Raw Data Path API and its use in Fd.io VPP.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/APAC%202021-warp%20speed%20crypto%20-%20A%20new%20DPDK%20Cryptodev%20Raw%20Data%20Path%20API%20and%20its%20use%20in%20Fd.io%20VPP.pdf)
-#### [NA 2021-Cristian_Dumitrescu_Han_Wang_Running_P4_Programs_as_DPDK_Apps.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-Cristian_Dumitrescu_Han_Wang_Running_P4_Programs_as_DPDK_Apps.pdf)
-#### [NA 2021-DPDK NA - Closing Remarks.pptx.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-DPDK%20NA%20-%20Closing%20Remarks.pptx.pdf)
-#### [NA 2021-DPDK Summit North America 2021.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-DPDK%20Summit%20North%20America%202021.pdf)
-#### [NA 2021-DPDK on RISC-V - Stanislaw Kardach, Semihalf.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-DPDK%20on%20RISC-V%20-%20Stanislaw%20Kardach%2C%20Semihalf.pdf)
-#### [NA 2021-High Density Scalable Cloud Gateway for Cloud Networking_DPDK Summit NA 2021_Ni Hongjun & Zhang Pan.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-High%20Density%20Scalable%20Cloud%20Gateway%20for%20Cloud%20Networking_DPDK%20Summit%20NA%202021_Ni%20Hongjun%20%26%20Zhang%20Pan.pdf)
-#### [NA 2021-Memory Model Simulation Tool - Herd7.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-Memory%20Model%20Simulation%20Tool%20-%20Herd7.pdf)
-#### [NA 2021-RTE_Flow improvements Ori Kam.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-RTE_Flow%20improvements%20Ori%20Kam.pdf)
-#### [NA 2021-Transitioning Flow Based ethdev Ops to rte_flow - Ajit Khaparde.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-Transitioning%20Flow%20Based%20ethdev%20Ops%20to%20rte_flow%20-%20Ajit%20Khaparde.pdf)
-#### [NA 2021-Using Virtual Functions with DPDK in OpenShift 4.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-Using%20Virtual%20Functions%20with%20DPDK%20in%20OpenShift%204.pdf)
-#### [NA 2021-dpdk-na-summit-2021_dpdk-on-riscv_kardach.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-dpdk-na-summit-2021_dpdk-on-riscv_kardach.pdf)
-#### [NA 2021-zero-copy-ring-APIs-DPDK.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E5%A4%A7%E4%BC%9APPT/NA%202021-zero-copy-ring-APIs-DPDK.pdf)
 
 
 ## 👷 知名工程师
