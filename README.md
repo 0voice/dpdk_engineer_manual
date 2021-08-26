@@ -6,6 +6,10 @@
  
 ## —— 数据平面开发套件
  
+书籍电子版资料 |官方文档 |最新视频 | 大会ppt| 开源项目|论文|知名工程师
+:-------: | :---------------: | :------------: | :-------: |:--------------: | :------------: | :------------:
+[📕](https://github.com/0voice/dpdk_engineer_manual#-%E4%B9%A6%E7%B1%8D%E7%94%B5%E5%AD%90%E7%89%88%E8%B5%84%E6%96%99)|[📜](https://github.com/0voice/dpdk_engineer_manual#-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)|[📀](https://github.com/0voice/dpdk_engineer_manual#-%E6%9C%80%E6%96%B0%E8%A7%86%E9%A2%91)|[🎞](https://github.com/0voice/dpdk_engineer_manual#-%E5%A4%A7%E4%BC%9Appt)|[🏗](https://github.com/0voice/dpdk_engineer_manual#-%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)|[📰](https://github.com/0voice/dpdk_engineer_manual#-%E8%AE%BA%E6%96%87)|[👷](https://github.com/0voice/dpdk_engineer_manual#-%E7%9F%A5%E5%90%8D%E5%B7%A5%E7%A8%8B%E5%B8%88)
+ 
 </div>
 
 <dr>
