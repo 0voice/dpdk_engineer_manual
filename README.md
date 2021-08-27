@@ -23,6 +23,12 @@
 
 </div>
 
+## 💪 国人技术，弘扬大厂实力
+#### [中兴通讯高性能5G核心网UPF实现](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF%E9%AB%98%E6%80%A7%E8%83%BD5G%E6%A0%B8%E5%BF%83%E7%BD%91UPF%E5%AE%9E%E7%8E%B0.pdf)
+#### [中国电信DPDK技术白皮书v1.0](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1DPDK%E6%8A%80%E6%9C%AF%E7%99%BD%E7%9A%AE%E4%B9%A6v1.0.pdf)
+#### [爱奇艺DPDK网络优化实践](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E7%88%B1%E5%A5%87%E8%89%BADPDK%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.pdf)
+#### [基于DPDK实现的LB支撑阿里巴巴双11业务](https://github.com/0voice/dpdk_engineer_manual/blob/main/jun-liang-%E5%9F%BA%E4%BA%8EDPDK%E5%AE%9E%E7%8E%B0%E7%9A%84LB%E6%94%AF%E6%92%91%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%8F%8C11%E4%B8%9A%E5%8A%A1%E2%80%94%E2%80%94DPDKSummit2018.pdf)
+ 
 ## 📕 书籍电子版资料
  
 #### [《DPDK应用基础》](https://www.aliyundrive.com/s/U2hJMJojHXm)
@@ -30,7 +36,6 @@
 #### [《Linux开源网络全栈详解：从DPDK到OpenFlow》](https://www.aliyundrive.com/s/3BNWpLX4hZk)
 #### [《DPDK Programmer’s Guide》](https://www.aliyundrive.com/s/EfFUcx6G8Zu)
 #### [《Data Plane Development Kit (DPDK)》 ](https://github.com/0voice/dpdk_engineer_manual/blob/main/Data%20Plane%20Development%20Kit%20(DPDK)%20.pdf)
-
 
 ## 📜 官方文档
 
