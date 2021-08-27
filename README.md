@@ -22,6 +22,7 @@
 
 ## 📣 【梳理思维，一图定乾坤】[DPDK架构图.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/DPDK%E6%9E%B6%E6%9E%84%E5%9B%BE.pdf)
 ## 🔥 【800页编程指南，含中文】[DPDK编程指南.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/DPDK%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
+## 🔈 【今日推荐阅读】[打破DPDK的误区： 数据面最流行的工具包DPDK的前世，现在和未来](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E6%89%93%E7%A0%B4DPDK%E7%9A%84%E8%AF%AF%E5%8C%BA%EF%BC%9A%20%E6%95%B0%E6%8D%AE%E9%9D%A2%E6%9C%80%E6%B5%81%E8%A1%8C%E7%9A%84%E5%B7%A5%E5%85%B7%E5%8C%85DPDK%E7%9A%84%E5%89%8D%E4%B8%96%EF%BC%8C%E7%8E%B0%E5%9C%A8%E5%92%8C%E6%9C%AA%E6%9D%A5.md)
 
 ## 💪 国人技术，弘扬大厂实力
 #### [中兴通讯高性能5G核心网UPF实现](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF%E9%AB%98%E6%80%A7%E8%83%BD5G%E6%A0%B8%E5%BF%83%E7%BD%91UPF%E5%AE%9E%E7%8E%B0.pdf)
