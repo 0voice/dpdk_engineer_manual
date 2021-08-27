@@ -14,7 +14,7 @@
 
 <dr>
 
-## 📣 【梳理思维，导图跟上】[DPDK架构图.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/DPDK%E6%9E%B6%E6%9E%84%E5%9B%BE.pdf)
+## 📣 【梳理思维，一图定乾坤】[DPDK架构图.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/DPDK%E6%9E%B6%E6%9E%84%E5%9B%BE.pdf)
 ## 🔥 【800页编程指南，含中文】[DPDK编程指南.pdf](https://github.com/0voice/dpdk_engineer_manual/blob/main/DPDK%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 
 <div  align=center>
