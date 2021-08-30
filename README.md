@@ -206,7 +206,8 @@ No.|Title|Translation（参考）|Company
 23 |[《FlowMon-DPDK: Parsimonious per-flow software monitoring at line rate》](https://github.com/0voice/dpdk_engineer_manual/blob/main/paper/%E3%80%8AFlowMon-DPDK%20Parsimonious%20per-flow%20software%20monitoring%20at%20line%20rate%E3%80%8B.pdf) |FlowMon-DPDK:基于线路速率的简单的每流量软件监控 |诺基亚贝尔实验室   
 24 |[《Intel® DPDK Boosts Server Appliance Performance》](https://github.com/0voice/dpdk_engineer_manual/blob/main/paper/%E3%80%8AIntel%C2%AE%20DPDK%20Boosts%20Server%20Appliance%20Performance%E3%80%8B.pdf) |英特尔®DPDK提升服务器设备性能 |Intel 
 25 |[《Virtual Switch Acceleration with OVS-TC and Agilio 40GbE SmartNICs》](https://github.com/0voice/dpdk_engineer_manual/blob/main/paper/%E3%80%8AVirtual%20Switch%20Acceleration%20with%20OVS-TC%20and%20Agilio%2040GbE%20SmartNICs%E3%80%8B.pdf) |基于OVS-TC和Agilio 40GbE SmartNICs的虚拟交换机加速 |Netronome  
-
+26|[网络功能虚拟化技术研究进](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E7%BD%91%E7%BB%9C%E5%8A%9F%E8%83%BD%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E8%BF%9B.pdf)|清华大学
+27|[面向网络功能虚拟化的高性能负载均衡机制](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E9%9D%A2%E5%90%91%E7%BD%91%E7%BB%9C%E5%8A%9F%E8%83%BD%E8%99%9A%E6%8B%9F%E5%8C%96%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%9C%BA%E5%88%B6.pdf)|中国科学院
 
 ## 👷 知名工程师
 
