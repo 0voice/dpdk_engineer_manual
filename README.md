@@ -209,6 +209,8 @@ No.|Title|Translation（参考）|Company
 26|[《网络功能虚拟化技术研究进》](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E7%BD%91%E7%BB%9C%E5%8A%9F%E8%83%BD%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E8%BF%9B.pdf)||清华大学
 27|[《面向网络功能虚拟化的高性能负载均衡机制》](https://github.com/0voice/dpdk_engineer_manual/blob/main/%E9%9D%A2%E5%90%91%E7%BD%91%E7%BB%9C%E5%8A%9F%E8%83%BD%E8%99%9A%E6%8B%9F%E5%8C%96%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%9C%BA%E5%88%B6.pdf)||中国科学院
 28|[《NFV实验平台的技术方案及搭建过程介绍》](https://github.com/0voice/dpdk_engineer_manual/blob/main/NFV%E5%AE%9E%E9%AA%8C%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88%E5%8F%8A%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B%E4%BB%8B%E7%BB%8D.pdf)||东南大学
+29|[《(Intel DPDK) with VMware vSphere》](https://github.com/0voice/dpdk_engineer_manual/blob/main/paper/%E3%80%8A(Intel%20DPDK)%20with%20VMware%20vSphere%E3%80%8B.pdf)||VMware
+30|[《Mellanox DPDK Quick Start Guide》](https://github.com/0voice/dpdk_engineer_manual/blob/main/paper/%E3%80%8AMellanox%20DPDK%20Quick%20Start%20Guide%E3%80%8B.pdf)|Mellanox DPDK快速入门指南|Mellanox
 
 ## 👷 知名工程师
 
