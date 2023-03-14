@@ -1,0 +1,45 @@
+> *因为项目需要做Traffic Shaping，看了下DPDK的QoS框架，做一下简单翻译以加深学习理解。这篇翻译基于DPDK 21.02 版本，简单介绍了DPDK QoS 框架的基本模块和功能。本系列一共4篇文章，这是第一篇。原文链接：[DPDK Quality of Service (QoS) Framework](https://links.jianshu.com/go?to=http%3A%2F%2Fdoc.dpdk.org%2Fguides-21.02%2Fprog_guide%2Fqos_framework.html)。*
+
+## 1. 支持QoS的包处理流水线
+
+下图展示了一个支持QoS的复杂包处理流水线的例子。
+
+
+
+![img](https:////upload-images.jianshu.io/upload_images/15825758-cc484ba19eaec3ca.png?imageMogr2/auto-orient/strip|imageView2/2/w/892/format/webp)
+
+图1. 支持QoS的复杂包处理流水线
+
+
+
+这个流水线可以基于可复用的DPDK代码库来构建。在这个流水线中，实现QoS的主要模块是：策略模块（policer）、丢包模块（dropper）和调度模块（scheduler）。
+
+下表提供了每个模块的功能描述。
+
+| #    | 模块                                   | 功能描述                                                     |
+| ---- | -------------------------------------- | ------------------------------------------------------------ |
+| 1    | 包收发模块（Packet I/O RX & TX）       | 负责从网卡端口收发数据包。                                   |
+| 2    | 包解析模块（Packet parser）            | 识别输入数据包的协议栈。检查报文头的完整性。                 |
+| 3    | 流分发模块（Flow classification）      | 将数据包映射到已知的数据流。查表过程中可以使用可配置的哈希函数(jhash, CRC等)或者哈希桶来处理冲突。 |
+| 4    | 策略模块（Policer）                    | 采用srTCM (rfc2697)和trTCM (RFC2698)两种算法进行报文计量。   |
+| 5    | 负载均衡模块（Load Balancer）          | 将数据包分发给应用程序工作线程，保证工作线程的负载均衡。保持数据流与工作线程之间的亲和性，保证每个流中的包顺序。 |
+| 6    | 工作线程（Worker threads）             | 用于特定于客户的应用程序工作负载。*（应用逻辑就实现在这里。）* |
+| 7    | 丢包模块（Dropper）                    | 使用随机早期检测(RED)算法(由Sally Floyd - Van Jacobson提出)或加权随机早期检测(WRED)来管理拥塞。基于当前调度模块队列负载情况和包优先级决定是否丢包。当发生拥塞时，低优先级的报文首先被丢弃。 |
+| 8    | 分级调度模块（Hierarchical Scheduler） | 调度模块有5级(发送端口（port）、子端口（subport）、管道（pipe）、流量组（traffic class）和队列（queue）)，可以支持数千个(通常是64K)队列。可以实现流量整形(作用于子端口和管道级别)、严格优先级(作用于流量组级别)和加权轮询(WRR)(作用于管道、流量组中的每个队列)。 |
+
+下表中列出了整个包处理流水线中使用的基础功能模块。
+
+| #    | 模块         | 功能描述                                                     |
+| ---- | ------------ | ------------------------------------------------------------ |
+| 1    | 缓存管理模块 | 支持全局缓存池和私有线程缓存。                               |
+| 2    | 队列管理模块 | 支持在流水线的各个功能模块之间传送报文。                     |
+| 3    | 节能模块     | 当业务流量不大的时候，减少用电开销。*（比方说给CPU降频，具体可参考[Power Management](https://links.jianshu.com/go?to=http%3A%2F%2Fdoc.dpdk.org%2Fguides-21.02%2Fprog_guide%2Fpower_man.html)）* |
+
+不同的应用模型有不同的性能、功能需求，因此可以灵活配置各个流水线模块和CPU的绑定关系。一些功能模块可能需要使用多个CPU(每个CPU上运行该功能模块的不同实例)，而其他模块可能绑定到同一个CPU上就够了。*（通过配置让不同的功能跑在同一个或者不同的线程里，线程绑定到固定的CPU核上运行。）*
+
+> *这一节通过一个流水线示例介绍了DPDK中支持QoS的模块，后面会分别介绍分级调度模块、丢包模块和流量计量的细节实现。*
+
+
+
+作者：DeepNoMind
+原文链接：https://www.jianshu.com/p/d8839cc728e5
